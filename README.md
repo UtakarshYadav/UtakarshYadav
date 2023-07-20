@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UtakarshYadav
 - 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... JavaScript
+- 🌱 I’m currently learning ... JavaScript and NodeJs
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... My wtsap no: 8743065285
 
