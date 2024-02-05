@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UtakarshYadav
 - 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning Redux
+- 💞️ Languages- Html,CSS, Javascript, Bootstrap, Mysql,Firebase, React, Redux
 - 📫 How to reach me ... My wtsap no: 8743065285
 
 <!---
